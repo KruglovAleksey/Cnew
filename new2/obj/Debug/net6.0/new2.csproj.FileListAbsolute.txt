@@ -1,0 +1,15 @@
+C:\Users\Aleksey\Desktop\C\new2\bin\Debug\net6.0\new2.exe
+C:\Users\Aleksey\Desktop\C\new2\bin\Debug\net6.0\new2.deps.json
+C:\Users\Aleksey\Desktop\C\new2\bin\Debug\net6.0\new2.runtimeconfig.json
+C:\Users\Aleksey\Desktop\C\new2\bin\Debug\net6.0\new2.dll
+C:\Users\Aleksey\Desktop\C\new2\bin\Debug\net6.0\new2.pdb
+C:\Users\Aleksey\Desktop\C\new2\obj\Debug\net6.0\new2.csproj.AssemblyReference.cache
+C:\Users\Aleksey\Desktop\C\new2\obj\Debug\net6.0\new2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksey\Desktop\C\new2\obj\Debug\net6.0\new2.AssemblyInfoInputs.cache
+C:\Users\Aleksey\Desktop\C\new2\obj\Debug\net6.0\new2.AssemblyInfo.cs
+C:\Users\Aleksey\Desktop\C\new2\obj\Debug\net6.0\new2.csproj.CoreCompileInputs.cache
+C:\Users\Aleksey\Desktop\C\new2\obj\Debug\net6.0\new2.dll
+C:\Users\Aleksey\Desktop\C\new2\obj\Debug\net6.0\refint\new2.dll
+C:\Users\Aleksey\Desktop\C\new2\obj\Debug\net6.0\new2.pdb
+C:\Users\Aleksey\Desktop\C\new2\obj\Debug\net6.0\new2.genruntimeconfig.cache
+C:\Users\Aleksey\Desktop\C\new2\obj\Debug\net6.0\ref\new2.dll
